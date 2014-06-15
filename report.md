@@ -177,11 +177,11 @@ Podstawa prawna: § 26 ust. 2 Rozporządzenia w sprawie podstawowych wymagań be
 	- Konto użytkownika w systemie TI blokuje administrator w następujących przypadkach:
 		* na wniosek pełnomocnika do spraw ochrony informacji niejawnych
 		* na wniosek kierownika jednostki organizacyjnej
-		* na wniosek inspektora bezpieczeństwa teleinformatycznego po zatwierdzeniu przez pełnomocnika do spraw ochrony informacji niejawnych
-		* na wniosek administratora systemu po zatwierdzeniu przez pełnomocnika do spraw ochrony informacji niejawnych
+		* na wniosek inspektora bezpieczeństwa TI po zatwierdzeniu przez pełnomocnika
+		* na wniosek administratora systemu po zatwierdzeniu przez pełnomocnika
 	- Wzór wniosku znajduje się w załączniku nr 1 do procedury
-	- Po otrzymaniu wniosku administrator systemu blokuje konto użytkownika w systemie operacyjnym.
-	- Po zablokowaniu konta administrator systemu odnotowuje ten fakt w książce działań administratora oraz na wniosku, a następnie dołącza wniosek do akt systemu.
+	- Po otrzymaniu wniosku adm. systemu blokuje konto użytkownika w systemie operacyjnym.
+	- Po zablokowaniu konta adm. systemu odnotowuje ten fakt w książce działań administratora.
 
 	Załącznik nr 1: wzór wniosku
 
