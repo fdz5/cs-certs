@@ -213,13 +213,15 @@ Przed "promieniowaniem" poufnych informacji można się zabezpieczyć w różny 
 
 Norma TEMPEST (temporary emanation and spurious transmission) została nadana programowi ochrony przed niekontrolowaną emisją ujawniającą, który powstał w latach 50-tych w USA na zlecenie Pentagonu. Standard ten znany jest również pod nazwami NAG1A, FS222, NACSIM 5100, NSCD. Kontrolę nad normą sprawuje Amerykańska Narodowa Agencja Bezpieczeństwa (NSA). Urządzenia klasy TEMPEST są ściśle kontrolowane, mogą być używane tylko przez kilka instytucji na świecie w tym NATO (co w konsekwencji oznacza Polskę).
 
-Polskie prawo nakłada konieczność utworzenia tzw. sprzętową strefę ochrony elektromagnetycznej (SSOE), a co za tym idzie wykorzystywanie urządzeń klasy TEMPEST w następujących przypadkach:
+Polskie prawo nakłada konieczność utworzenia tzw. sprzętowej strefy ochrony elektromagnetycznej (SSOE), a co za tym idzie wykorzystywanie urządzeń klasy TEMPEST w następujących przypadkach:
 
 - w przypadku systemów teleinformatycznych przeznaczonych do przetwarzania informacji niejawnych o klauzuli „poufne”, kiedy odległość od urządzeń wchodzących w skład systemu do obszaru pozostającego poza kontrolą wynosi mniej niż 8 m.,
 - w przypadku systemów teleinformatycznych przeznaczonych do przetwarzania informacji niejawnych o klauzuli „tajne” lub wyższej,
 - w przypadku systemów teleinformatycznych przeznaczonych do przetwarzania informacji niejawnych NATO oraz UE oznaczonych klauzulą CONFIDENTIAL lub wyższą.
 
 W zależności od odległości sprzętu IT od obszaru niekontrolowanego konieczne jest wykorzystywanie urządzeń certyfikowanych różnymi normami (zgodnie z tabelą poniżej).
+
+\newpage
 
 | P. ochrony ABW | P. ochrony SKW |                          Opis                         |
 |:--------------:|:--------------:|:-----------------------------------------------------:|
@@ -252,6 +254,8 @@ Poniżej została przedstawiona część z głównych zasad polityki kryptografi
 * Algorytmy publiczne - algorytmy typu B są implementowane bezpośrednio przez producenta urządzeń lub narzędzi kryptograficznych. 
 * W szczególnie uzasadnionych przypadkach algorytmy kryptograficzne A1 mogą być przekazane producentowi urządzeń przeznaczonych do ochrony kryptograficznej informacji niejawnych na warunkach i w oparciu o zasady określone przez ABW (...).
 
+Pozostałe zasady polityki kryptograficznej zdefiniowanej przez ABW można znaleźć [na oficjalnej stronie internetowej ABW](http://www.abw.gov.pl/download/1/1157/Polityka_kryptograficzna.pdf).
+
 \newpage
 
 # 7. Wniosek WA-01 o przeprowadzenie audytu bezpieczeństwa systemu teleinformatycznego oraz wydanie świadectwa akredytacji bezpieczeństwa systemu teleinformatycznego 
@@ -265,6 +269,8 @@ Oprócz powyższych informacji wniosek obejmuje m.in.:
 * bezpieczeństwo osobowe
 * zarządzanie bezpieczeństwem informacji
 * bezpieczeństwo fizyczne
+
+Formularz wniosku dostępny jest na [oficjalnej stronie internetowej ABW](http://www.bip.abw.gov.pl/download/1/596/WniosekWA-01Od11092012rABWbedzierozpatrywatylkownioskizgloszonenaaktualnymdrukuW.doc).
 
 \newpage
 
