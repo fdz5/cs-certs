@@ -251,14 +251,14 @@ W niniejszym dokumencie wykazano wymagania względem systemu przetwarzającego d
 
 # 9. Bibliografia
 
-- [Ustawa o ochronie informacji niejawnych] (http://www.iniejawna.pl/przyciski/ustawa.html#1)
+- [Ustawa o ochronie informacji niejawnych](http://www.iniejawna.pl/przyciski/ustawa.html#1)
 
-- [Ochrona informacji niejawnych] (http://archiwalna.polsl.pl/adc/obrona/docs/OchrInf.pdf)
+- [Ochrona informacji niejawnych](http://archiwalna.polsl.pl/adc/obrona/docs/OchrInf.pdf)
 
-- [SKW] (http://www.skw.gov.pl/ZBIN/akredytacja.htm)
+- [SKW](http://www.skw.gov.pl/ZBIN/akredytacja.htm)
 
-- [Przetwarzanie informacji niejawnych] (http://lexvin.pl/prawo/4614/Przetwarzanie-informacji-niejawnych)
+- [Przetwarzanie informacji niejawnych](http://lexvin.pl/prawo/4614/Przetwarzanie-informacji-niejawnych)
 
-- [ORGANIZACJA OCHRONY INFORMACJI NIEJAWNYCH] (http://bip.abw.gov.pl/bip/informacje-niejawne-1/nadzor-nad-systemem-oc/organizacja-ochrony-in/145,ORGANIZACJA-OCHRONY-INFORMACJI-NIEJAWNYCH.html)
+- [ORGANIZACJA OCHRONY INFORMACJI NIEJAWNYCH](http://bip.abw.gov.pl/bip/informacje-niejawne-1/nadzor-nad-systemem-oc/organizacja-ochrony-in/145,ORGANIZACJA-OCHRONY-INFORMACJI-NIEJAWNYCH.html)
 
-- [Bezpieczeństwo teleinformatyczne informacji niejawnych] (http://www.4itsecurity.pl/index.php/kategorie/informacje-niejawne/71-bezpieczenstwo-teleinformatyczne-informacji-niejawnych)
+- [Bezpieczeństwo teleinformatyczne informacji niejawnych](http://www.4itsecurity.pl/index.php/kategorie/informacje-niejawne/71-bezpieczenstwo-teleinformatyczne-informacji-niejawnych)
