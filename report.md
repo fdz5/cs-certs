@@ -1,4 +1,4 @@
-% **Certyfikacja systemów informatycznych**  
+% **Certyfikowanie procesów wytwórczych oprogramowania**  
   Certyfikacja sprzętu i systemów teleinformatycznych do przetwarzania danych niejawnych
 % Łukasz Brewczyński; Filip Dziedzic; Rafał Studnicki 
 % Informatyka   
