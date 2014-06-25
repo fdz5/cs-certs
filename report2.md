@@ -93,7 +93,7 @@ Aby zapewnić bezpieczeństwo teleinformatyczne informacji niejawnych w potencja
 
 ## 4.1 Organizacja i zarządzanie bezpieczeństwem
 
-W celu spełnienia tego wymogu należy wyznaczyć odpowiedzialne osoby za poszczególne elementy bezpieczeństwa, a także określić dla nich zakres obowiązków i odpowiedzialności. Kierownik jednostki odpowiada za ochronę informacji niejawnych w jednostce organizacyjnej. Przestrzegania przepisów o ochronie informacji niejawnej egzekwować musi pełnomocnik ochrony. Gdy dojdzie do incydentu, w wyniku którego naruszuono procedury eksploatacji danych o klauzuli 'poufne' lub wyższej, zobowiązany jest on do poinformowania kierownika jednostki organizacyjnej, a także Służby Ochrony Państwa. Wymagane jest również przeprowadzenie procedury wyjaśniającej okoliczoności zdarzenia.
+W celu spełnienia tego wymogu należy wyznaczyć odpowiedzialne osoby za poszczególne elementy bezpieczeństwa, a także określić dla nich zakres obowiązków i odpowiedzialności. Kierownik jednostki odpowiada za ochronę informacji niejawnych w jednostce organizacyjnej. Przestrzegania przepisów o ochronie informacji niejawnej egzekwować musi pełnomocnik ochrony. Gdy dojdzie do incydentu, w wyniku którego naruszono procedury eksploatacji danych o klauzuli 'poufne' lub wyższej, zobowiązany jest on do poinformowania kierownika jednostki organizacyjnej, a także Służby Ochrony Państwa. Wymagane jest również przeprowadzenie procedury wyjaśniającej okoliczoności zdarzenia.
 
 Administrator systemu i Inspektor BTI jest wyznaczany przez kierownika jednostki organizacyjnej. Do ich obowiązków należy zapenienie bezpieczeństwa teleinformatycznego przed przystąpieniem do przetwarzania informacji niejawnych w jednostce organizacyjnej.
 
@@ -111,8 +111,8 @@ Przy tworzeniu stref ochronnych należy pamiętać o:
 - kontrolowaniu wejść i osób przebywających w strefach ochronnych przez pracowników ochrony,
 - ścisłym stosowanie procedur kontroli wprowadzania gości do stref ochronnych,
 - wspomaganiu kontroli prowadzonej przez pracowników ochrony za pomocą systemów elektronicznych – alarmowych, antywłamaniowych, kontroli dostępu, telewizji przemysłowej,
-- stosowaniu środków ochrony przeciwpożarowej
-- stosowaniu środków ochrony przed zalaniem
+- stosowaniu środków ochrony przeciwpożarowej,
+- stosowaniu środków ochrony przed zalaniem.
 
 Instalacja urządzeń systemu lub sieci musi odbywać się w sposób zabezpieczający przed nieuprawnionym dostępem, podglądem czy podsłuchem. Dobrą praktyką jest szukanie rozwiązania, które zapewni należyte bezpieczeństwo, nie utrudniając przy tym pracy użytkowników systemu. Mimo to celem nadrzędnym jest ochrona informacji niejawnych przetwarzanych w systemie.
 
@@ -245,7 +245,7 @@ Ustawy i rozporządzenia mające zastosowanie w przypadku ochrony danych niejawn
 
 # 8. Podsumowanie
  
-W niniejszym dokumencie wykazano wymagania względem systemu przetwarzającego dane niejawne. Jak udało się pokazać, iż spełnienie restrykcyjnych wymagań nie jest czynnością prostą. Proces weryfikacji przez ABW może trwać latami. Ustawa o ochronie informacji niejawnych precyzuję co prawda czas na postępowanie akredytacyjne, lecz w rzeczywistości zastosowana w nim litera prawa odnosi się jedynie do pierwszej iteracji tego procesu. W przypadku zgłoszenia uwag i wątpliwości do przedstawionej dokumentacji bezpieczeństwa, proces może trwać znacznie dłużej niż „optymistyczne” 3 miesiące. Wart podkreślenia jest także fakt, iż dopuszczenie systemu do użytku nie jest dożywotnie. W przedstawionym wykazie dopuszczonych urządzeń widnieje data ważności certyfikatu, co oznacza, iż proces certyfikacji należy sukcesywnie ponawiać. Audyty bezpieczeństwa prowadzone przez ABW dają, przynajmniej pozorną, gwarancję utrzymania tajemnic państwowych na wysokim poziomie bezpieczeństwa. 
+W niniejszym dokumencie wykazano wymagania względem systemu przetwarzającego dane niejawne. Jak udało się pokazać, spełnienie restrykcyjnych wymagań nie jest czynnością prostą. Proces weryfikacji przez ABW może trwać latami. Ustawa o ochronie informacji niejawnych precyzuje co prawda czas na postępowanie akredytacyjne, lecz w rzeczywistości zastosowana w nim litera prawa odnosi się jedynie do pierwszej iteracji tego procesu. W przypadku zgłoszenia uwag i wątpliwości do przedstawionej dokumentacji bezpieczeństwa, proces może trwać znacznie dłużej niż „optymistyczne” 3 miesiące. Wart podkreślenia jest także fakt, iż dopuszczenie systemu do użytku nie jest dożywotnie. W przedstawionym wykazie dopuszczonych urządzeń widnieje data ważności certyfikatu, co oznacza, iż proces certyfikacji należy sukcesywnie ponawiać. Audyty bezpieczeństwa prowadzone przez ABW dają, przynajmniej pozorną, gwarancję utrzymania tajemnic państwowych na wysokim poziomie bezpieczeństwa. 
 
 \newpage
 
